@@ -60,7 +60,6 @@ btn_dest_path.pack(padx = 5, pady = 5)
 frame_run = Frame(root)
 frame_run.pack(fill = "x", padx = 5, pady = 5)
 
-photo = PhotoImage(file = resource_path("pyPDF/pyri.png"))
 label2 = Label(frame_run, image = photo)
 label2.pack(side="left")
 
