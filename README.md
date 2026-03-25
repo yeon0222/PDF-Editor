@@ -1,9 +1,9 @@
 # PDF-Editor
 
 >  ## 앱기능요약
->  +  PDF 분할 및 병합 📑
->  +  마우스 드래그 앤 드롭 🖱
->  +  PDF 병합 순서 변경 및 선택 삭제 ✂
+>  +  PDF 분할 및 병합
+>  +  마우스 드래그 앤 드롭
+>  +  PDF 병합 순서 변경 및 선택 삭제
 >  ## Tech
 >  ### Programming Language / Library
 >  + Python, tkinter, PyPDF2, TkinterDnD2  
@@ -40,7 +40,7 @@
 >  ## ③ 마우스 드래그 앤 드롭
 >  PDF 파일이 깊은(복잡한) 디렉토리에 존재하는 경우 디렉토리를 타고 PDF 파일을 등록하기 번거로우므로 파일을 끌어다가 프로그램에 직접 등록시킬 수 있습니다.
 >  
->  ### Features
+>  ### 설명
 >  + TkinterDnD2 라이브러리의 drag_source_register, dnd_bind 등의 메서드와 widget 속성 활용
 > 
 >  ## ④ PDF 분할 및 병합
